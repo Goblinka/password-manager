@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm
+.idea/
+*.iml
+
+# Virtual environment
+.venv/
+.env/
+
+# Project-specific
+passwords.json
